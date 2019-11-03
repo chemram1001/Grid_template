@@ -1,0 +1,12 @@
+Use index.html file in this directory as a template for making a grid-based
+webpage. 
+
+modify it and run an html webpage with the command: 
+	
+	firefox index.html
+
+if you have a different html file name such as blog.html then run: 
+
+	firefox blog.html
+
+
